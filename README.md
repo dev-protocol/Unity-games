@@ -91,7 +91,7 @@ A curated list of useful open-source games in alphabetical order.
 This repository exists due to a scarcity of open-source Unity projects and the growing demand for them. I made this list to centralize everything in one place.
 
 ### Something Wrong?
-Feel free to open an issue or let me know on [Discord](info@rwema.com).
+Feel free to open an issue or let me know at [info@rwema.com](info@rwema.com).
 
 ### Supporting
 Contributions and suggestions are welcome, you can also leave a star if you appreciate the work done in this repository.
